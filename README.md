@@ -1,4 +1,4 @@
-# Cardápio Digital - Aplicação Backend
+# Cardápio Digital - Aplicação FrontEnd
 
 <p align="center">
   <a href="#Requisites">Pré-requisitos</a> •
