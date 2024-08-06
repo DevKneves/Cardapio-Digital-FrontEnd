@@ -42,4 +42,5 @@ npm run build
 ```
 Isso irá gerar uma versão otimizada da aplicação na pasta `dist`.
 
+<h2 id="related">🫂 Integração com Frontend</h2>
 Repositorio do Back-End: https://github.com/DevKneves/Cardapio-Digital-BackEnd
